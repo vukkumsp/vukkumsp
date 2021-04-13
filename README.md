@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vsaiprakash
 - 👀 I’m interested in Frontend Technologies like Angular, React, ...
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vsaiprakash/
 
 <!---
