@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vsaiprakash
 - 👀 I’m interested in Frontend Technologies like Angular, React, ...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NgRx Library
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vsaiprakash/
 - 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com
