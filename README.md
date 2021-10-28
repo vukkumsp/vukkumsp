@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @vsaiprakash
+
 - 👀 I’m interested in Frontend Technologies like Angular, React, ...
-- 🌱 I’m currently learning NgRx Library
+
+- 🌱 I’m currently learning NgRx Library & Nativescript + Angular
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vsaiprakash/
 <!-- - 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com -->
 - 🖥️ Online Portfolio: https://vsaiprakash.github.io/portfolio-app-ui/
-- 🎨 You can checkout my creative side on Instagram at @specteller https://www.instagram.com/specteller
+<!-- - 🎨 You can checkout my creative side on Instagram at @specteller https://www.instagram.com/specteller -->
 
 
 <!---
