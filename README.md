@@ -8,10 +8,10 @@
   -    dApp development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vsaiprakash/
-- ✍️ Or On Instagram @vukkumsp https://www.instagram.com/vukkumsp
+<!-- ✍️ Or On Instagram @vukkumsp https://www.instagram.com/vukkumsp -->
 <!-- - 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com -->
 - 🖥️ Online Portfolio: https://vsaiprakash.github.io/portfolio-app-ui/
-<!-- - 🎨 You can checkout my creative side on Instagram at @specteller https://www.instagram.com/specteller -->
+- 🎨 You can checkout my creative side on Instagram at @specteller https://www.instagram.com/specteller
 
 
 <!---
