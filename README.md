@@ -11,7 +11,7 @@
 <!-- ✍️ Or On Instagram @vukkumsp https://www.instagram.com/vukkumsp -->
 <!-- - 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com -->
 - 🖥️ Online Portfolio: https://vsaiprakash.github.io/portfolio-app-ui/
-- 💬✍️ Ping me on Instagram @vukkumsp https://www.instagram.com/vukkumsp
+- 💬 Ping me on Instagram @vukkumsp https://www.instagram.com/vukkumsp
 
 
 <!---
