@@ -2,12 +2,12 @@
 
 - 👀 I’m interested in Frontend Technologies like Angular, React, ...
 
-- 🌱 I’m currently exploring 
-  -    NgRx State Management Library, 
-  -    Nativescript + Angular, 
-  --    [ ] Goal 1: Build a Nativescript App
-  -    [ ] Goal 2: Build a Nativescript App that also works as a Web App using same Codebase (Angular)
-  -    dApp development
+- 🌱 I’m currently exploring . . .
+  - - [ ]  NgRx State Management Library, 
+  - - [ ]  Nativescript + Angular, 
+     -  - [ ] Goal 1: Build some Basic Nativescript App
+     -  - [ ] Goal 2: Build a Nativescript App that also works as a Web App using same Codebase (Angular)
+  - - [ ]  dApp development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vsaiprakash/
 <!-- ✍️ Or On Instagram @vukkumsp https://www.instagram.com/vukkumsp -->
