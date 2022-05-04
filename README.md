@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently exploring . . .
   - - [ ]  NgRx State Management Library, 
+     -  - [ ] Goal 1: Build some Basic Angular App with all NgRx concepts combined.
   - - [ ]  Nativescript + Angular, 
      -  - [x] Goal 1: Build some Basic Nativescript + Angular App.
      -  - [ ] Goal 2: Build a Nativescript App that also works as a Web App using same Codebase (Angular).
