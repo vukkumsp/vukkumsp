@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Prakash, you can call me Sai 
 - 💻 I am available on Github under username @vsaiprakash
-- 👀 I’m interested in Full Stack Technologies like Angular, React, NodeJs, Springboot, ... stc.,
+- 👀 I’m interested in Full Stack Technologies like Angular, React, NodeJs, Springboot, ElectronJs, ... stc.,
 - 🌱 I’m currently exploring . . .
   - - [ ]  NgRx State Management Library, 
      -  - [ ] Goal 1: Build some Basic Angular App with all NgRx concepts combined.
