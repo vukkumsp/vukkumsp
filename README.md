@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sai Prakash, you can call me Sai 
 - 💻 I am available on Github under username @vukkumsp
 - 👀 I’m interested in Full Stack Technologies like Angular, React, NodeJs, Springboot, ElectronJs, ... stc.,
-- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vsaiprakash/
-- 🖥️ Online Portfolio: https://vsaiprakash.github.io/portfolio-app-ui/
+- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vukkumsp/
+- 🖥️ Online Portfolio: https://vukkumsp.github.io/portfolio-app-ui/
 
 ---------------------------------------------------
 - 🌱 I’m currently exploring . . .
