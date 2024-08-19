@@ -1,23 +1,49 @@
-<h1 align="center"> 👋 Hi, I’m Sai Prakash, you can call me Sai </h1>
+<!-- 
+refer to below sources for readme.md docs: 
+
+https://docs.readme.com/rdmd/docs/getting-started
+https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+-->
+<h1 align="center"> 👋 Hi, I’m Sai Prakash, you can call me "Sai" </h1>
 
 - 💻 I am available on GitHub under username @vukkumsp
-- 👀 I’m interested in Web3, Blockchain & Full Stack Technologies like Angular, React, NodeJs, Springboot, ElectronJs, ... etc.,
+- 👀 I’m interested in Web3, Blockchain & Full Stack Technologies like Angular, React, NodeJs, ElectronJs, ... etc.,
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vukkumsp/
-- 🖥️ Online Portfolio: https://vukkumsp.github.io/portfolio-app-ui/
-
-
-
+- 🌐 Online Portfolio: https://vukkumsp.github.io/portfolio-app-ui/
+- 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com
 
 ---------------------------------------------------
-<h2 align="center"> 🌱 Long term Goals for 2024: </h2> 
 
+| 📅⌛🎯 Daily Goals for 2024|📅🌱🎯 Long term Goals for 2024|
+|---|---|
+| 1. 1 hour Workout everyday      | - Build a DApp Frontend with Angular |
+| 2. 1 hour walk ( ~ 6 km )      | - Build a DApp Full Stack (with NodeJS in backend)|
+| 3. Only total 2 hourS screen time per day | - Complete AWS Associate Developer Certification|
+
+<!--
+---------------------------------------------------
+
+<h2 align="center"> 📅⌛🎯 Daily Goals for 2024: </h2> 
+
+  1. 1 hour Workout everyday
+  2. 1 hour walk ( ~ 6 km )
+  3. Only total 2 hourS screen time per day
+
+---------------------------------------------------
+<h2 align="center"> 📅🌱🎯 Long term Goals for 2024: </h2> 
+-->
+<!--
   - [ ] Practice Problem Solving everyday
       - [ ] Complete blind 75 problems (at least 1 problem per day)
       -  ( https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions )
           -  Once Blind 75 is completed, prepare a new plan to follow problem-solving.
-  - [ ] 1 hour Workout everyday
-  - [ ] 1 hour walk ( ~ 6 km )
- 
+-->
+<!--
+  - [ ] Build a DApp Frontend with Angular
+  - [ ] Build a DApp Full Stack (with NodeJS in backend)
+  - [ ] Complete AWS Associate Developer Certification
+ -->
 ---------------------------------------------------
 <!--
 - 
