@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Developer Portfolio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: linear-gradient(135deg, #4c69a5, #3b5998);
+      color: white;
+      overflow: hidden;
+    }
+    .portfolio {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: auto auto;
+      gap: 20px;
+      width: 90vw;
+      height: 90vh;
+      max-width: 1200px;
+      background: rgba(0, 0, 0, 0.8);
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .portfolio div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 10px;
+      text-align: center;
+    }
+    .header {
+      grid-column: span 3;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .about, .skills, .projects, .contact {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+    }
+    .about {
+      grid-column: span 1;
+    }
+    .skills {
+      grid-column: span 1;
+    }
+    .projects {
+      grid-column: span 1;
+    }
+    .contact {
+      grid-column: span 3;
+    }
+    .button {
+      margin-top: 10px;
+      padding: 10px 15px;
+      background: #3b5998;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    .button:hover {
+      background: #4c69a5;
+    }
+  </style>
+</head>
+<body>
+  <div class="portfolio">
+    <div class="header">
+      <h1>John Doe</h1>
+      <p>Full Stack Web Developer | HTML, CSS, JavaScript, React, Angular, Spring Boot</p>
+    </div>
+    <div class="about">
+      <h2>About Me</h2>
+      <p>
+        I'm a passionate developer with expertise in creating modern, responsive websites and applications. I enjoy building robust backend systems and beautiful frontend designs.
+      </p>
+    </div>
+    <div class="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React, Angular</li>
+        <li>Spring Boot, REST APIs</li>
+        <li>SQL, MongoDB</li>
+      </ul>
+    </div>
+    <div class="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>Portfolio Website</li>
+        <li>E-commerce Application</li>
+        <li>Decentralized Polling App</li>
+      </ul>
+    </div>
+    <div class="contact">
+      <h2>Contact</h2>
+      <p>Email: johndoe@example.com</p>
+      <p>LinkedIn: linkedin.com/in/johndoe</p>
+      <button class="button" onclick="window.open('mailto:johndoe@example.com')">Hire Me</button>
+    </div>
+  </div>
+</body>
+</html>

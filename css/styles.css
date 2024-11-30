@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', serif;
+    /* font-size: 48px; */
+}
+
+.container {
+    display: grid;
+    /* grid-template-columns: 2; */
+    /* grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto auto; */
+}
+
+.header-section {
+    grid-column: span 5;
+}
+
+.left-section {
+    grid-column: span 1;
+}
+
+.left-section fieldset{
+    min-height: 75vh;
+}
+
+.right-section {
+    grid-column: span 4;
+}
+
+.right-section fieldset{
+    min-height: 75vh;
+}
