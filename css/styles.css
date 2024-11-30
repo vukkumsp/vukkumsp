@@ -9,7 +9,7 @@ body {
     /* grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto auto; */
 }
-
+/*  */
 .header-section {
     grid-column: span 5;
 }
