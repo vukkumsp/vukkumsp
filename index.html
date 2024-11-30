@@ -23,22 +23,98 @@
     <section class="container">
       <section class="header-section">
         <header>
-          <h3>Vukkum Sai Prakash</h3>
-          <p>Full Stack Developer</p>
+          <div class="candidate-name">Vukkum Sai Prakash</div>
+          <div class="candidate-details">
+            <div class="candidate-role">Full Stack Developer</div>
+            <div class="candidate-contact-details">
+              Phone - Email - LinkedIn - Github - Location
+            </div>
+          </div>
         </header>
       </section>
-      <section class="left-section profile">
+
+<!-- -------------------------------------------------------------------- -->
+
+      <section class="profile-section">
+        <fieldset class="profile-skills">
+          <legend>
+            Skills
+          </legend>
+          <div class="languages-label">Languages</div>
+          <div class="languages">
+            JavaScript, Typescript, HTML, CSS, Java 11
+          </div>
+          <div class="frameworks-libraries-label">Frameworks/Libraries</div>
+          <div class="frameworks-libraries">
+            Spring Boot, Angular 4 to 18, Bootstrap 5
+          </div>
+          <div class="databases-label">
+            Database
+          </div>
+          <div class="databases">
+            RDBMS
+          </div>
+          <div class="software-arch-labels">Software Architectures</div>
+          <div class="software-archs">
+            Serverless, Microservices, Monolithic
+          </div>
+          <div class="testing-tools-label">Testing Tools</div>
+          <div class="testing-tools">
+            JUnit, PlaywrightJs
+          </div>
+          <div class="api-techniques-label">API Techniques</div>
+          <div class="api-techniques">
+            RESTful API, GraphQL
+          </div>
+          <div class="dev-tools-label">
+            Development Tools
+          </div>
+          <div class="dev-tools">
+            VSCode, IntelliJ, STS/Eclipse, Git, Github, Jenkins, Docker, npm, maven, npm
+          </div>
+
+        </fieldset>
+
+
+
+        <!-- ------------------------------------------------------------------------------ -->
+
         <fieldset>
           <legend>
-            Profile
+            Contact Me
           </legend>
+          <form class="contact-me-form">
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Name">
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Email">
+            <button class="contact-me-submit-btn" type="submit">Submit</button>
+          </form>
         </fieldset>
       </section>
+
+<!-- ------------------------------------------------------------------------------------ -->
+
       <section class="right-section">
         <fieldset>
           <legend>
-            Body
+            Work Experience
           </legend>
+        </fieldset>
+
+        <!-- ------------------------------------------------------------------------------ -->
+
+        <fieldset>
+          <legend>Personal Projects</legend>
+          <div class="personal-project">
+            <div class="personal-project-name">
+              Polling Booth
+            </div>
+            <div class="personal-project-details">
+              <div>Description:</div>
+              <div>Github:</div>
+            </div>
+          </div>
         </fieldset>
       </section>
     </section>

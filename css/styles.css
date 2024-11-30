@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', serif;
-    /* font-size: 48px; */
+    font-size: smaller;
 }
 
 .container {
@@ -14,18 +14,49 @@ body {
     grid-column: span 5;
 }
 
-.left-section {
+.profile-section {
     grid-column: span 1;
+    
 }
 
-.left-section fieldset{
-    min-height: 75vh;
+.profile-section > .profile-skills > div {
+    font-size: smaller;
 }
+
+.languages, .frameworks-libraries, 
+    .databases, .software-archs, .testing-tools, .api-techniques, .dev-tools {
+    margin-left: 10px;
+}
+
+/* .profile-section fieldset{
+    min-height: 75vh;
+} */
 
 .right-section {
     grid-column: span 4;
 }
 
-.right-section fieldset{
+/* .right-section fieldset{
     min-height: 75vh;
+} */
+
+.candidate-name {
+    font-weight: 700;
+    font-size:x-large;
+}
+
+.candidate-details {
+    display: flex;
+    justify-content: space-between;
+    font-size: larger;
+}
+
+.contact-me-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-me-submit-btn{
+    margin-top: 20px;
+    cursor: pointer;
 }
