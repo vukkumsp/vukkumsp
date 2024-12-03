@@ -2,7 +2,7 @@ function Header() {
     return (
         <section className="header-section">
             <header>
-                <div className="candidate-name">Vukkum Sai Prakash3</div>
+                <div className="candidate-name">Vukkum Sai Prakash4</div>
                 <div className="candidate-details">
                     <div className="candidate-role">Full Stack Developer</div>
                     <div className="candidate-contact-details">
