@@ -1,2 +1,0 @@
-open react-next-app in git bash
-run : npm run build
