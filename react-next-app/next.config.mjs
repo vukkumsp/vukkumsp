@@ -3,7 +3,7 @@ const nextConfig = {
     output: 'export',
     assetPrefix: './', // Use relative paths for static assets during export
     basePath: '', 
-    distDir: 'docs',  // Set the output folder to 'docs' -- for Github pages
+    distDir: '../docs',  // Set the output folder to 'docs' -- for Github pages
     // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
     // trailingSlash: true,
    
