@@ -10,9 +10,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - 💻 I am available on GitHub under username @vukkumsp
 - 👀 I’m interested in Web3, Blockchain & Full Stack Technologies like Angular, React, NodeJs, ElectronJs, ... etc.,
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/vukkumsp/
-- 🌐 Online Portfolio: https://vukkumsp.github.io/portfolio-app-ui/
-- 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com
-
+- 🌐 Online Portfolio: https://www.vukkumsp.com/
+<!-- - 🖥️ My Blog on Wordpress.com at https://expansionjournal.wordpress.com -->
+<!--
 ---------------------------------------------------
 
 | 📅⌛🎯 Daily Goals for 2024|📅🌱🎯 Long term Goals for 2024|
@@ -21,7 +21,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 | 2. 1 hour walk ( ~ 6 km )      | - Build a DApp Full Stack (with NodeJS in backend)|
 | 3. Only total 2 hourS screen time per day | - Complete AWS Associate Developer Certification|
 
-<!--
+
 ---------------------------------------------------
 
 <h2 align="center"> 📅⌛🎯 Daily Goals for 2024: </h2> 
@@ -43,8 +43,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - [ ] Build a DApp Frontend with Angular
   - [ ] Build a DApp Full Stack (with NodeJS in backend)
   - [ ] Complete AWS Associate Developer Certification
- -->
+ 
 ---------------------------------------------------
+-->
 <!--
 - 
   - - [ ]  NgRx State Management Library, 
